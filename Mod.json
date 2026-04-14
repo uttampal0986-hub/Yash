@@ -20,6 +20,13 @@
         "expirydate": "15-06-2026",
         "Allowoffline": false
         },
+    {
+        "device_id": "a71cf7cf66fe67a9",
+        "username": "man123",
+        "password": "DEFF-E420-189F-0C34",
+        "expirydate": "25-05-2026",
+        "Allowoffline": false
+    },
 ]
     
 ] 
