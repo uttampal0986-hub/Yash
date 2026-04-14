@@ -35,38 +35,10 @@
         "expirydate": "15-05-2026",
         "Allowoffline": false
     },
-    {
-        "device_id": "ce082d4829d41093",
-        "username": "amit1232",
-        "password": "593A-4F98-0053-B215",
-        "expirydate": "10-05-2026",
-        "Allowoffline": false
-    }
-    {
-        "device_id": "a780d9fbd9ba9230",
-        "username": "om123",
-        "password": "8negwyg677",
-        "expirydate": "02-05-2026",
+    {"device_id": "aad38588e1fc1de5",
+        "username": "rahul124",
+        "password": "YASH123",
+        "expirydate": "15-05-2026",
         "Allowoffline": false
     },
-    {
-        "device_id": "1ad6edc3f5a42cb0",
-        "username": "ak123",
-        "password": "TUPK-RMJH-YT",
-        "expirydate": "02-05-2026",
-        "Allowoffline": false
-        }
-]
-    {
-        "device_id": "aad38588e1fc1de5",
-        "username": "yash1234",
-        "password": "445566",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
-        }
 
-{   "device_id": "aad38588e1fc1de5",
-        "username": "yash123",
-        "password": "SURENDRA",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
